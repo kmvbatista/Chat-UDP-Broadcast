@@ -1,0 +1,3 @@
+#Chat feito com conexão UDP com broadcast (qualquer dispositivo na rede naquela porta irá receber a mensagem)
+Para testar localmente, executar dois processos diferentes, trocando as portas do Receiver e Sender para as correspondentes.
+Isto é, o sender do outro processo envia mensagem para a mesma porta do Receiver pertencente ao processo original.
